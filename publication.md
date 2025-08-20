@@ -1,5 +1,8 @@
 ## Publication 
 
+### Preprint
+1. M. Katori, S. Koshida, C. Soukejima, and R. Suzuki, *Coupling of radial multiple SLE with Gaussian free field, and the hydrodynamic limit*, [[arXiv:2508.13622](https://arxiv.org/abs/2508.13622)].
+
 ### Published
 1. S. Koshida, *Module categories of the generic Virasoro VOA and quantum groups*, SIGMA **21**, 039 (2025). [[Link](https://doi.org/10.3842/SIGMA.2025.039), [arXiv:2207.12969](https://arxiv.org/abs/2207.12969)] 
 
