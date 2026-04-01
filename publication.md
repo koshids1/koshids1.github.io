@@ -39,7 +39,7 @@
 
 ### Proceedings
 
-1. M. Katori and S. Koshida, *Gaussian Free Fields Coupled with Multiple SLEs Driven by Stochastic Log-Gases*, Advanced Studies in Pure Mathematics **87**, 315-340 (2021). [[arXiv:2001.03079](https://arxiv.org/abs/2001.03079)]
+1. M. Katori and S. Koshida, *Gaussian Free Fields Coupled with Multiple SLEs Driven by Stochastic Log-Gases*, Advanced Studies in Pure Mathematics **87**, 315-340 (2021). [[Link](https://doi.org/10.2969/aspm/08710315), [arXiv:2001.03079](https://arxiv.org/abs/2001.03079)]
 
 1. S. Koshida and Y. Kato, *Perturbation Theory for Superfluid in Nonuniform Potential*, J. Low Temp. Phys. **183**, 71—77 (2016). [[Link](https://doi.org/10.1007/s10909-015-1394-7)]
 

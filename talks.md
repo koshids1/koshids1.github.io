@@ -1,4 +1,6 @@
 ## Talks
+1. Conformal blocks for Gaussian free field, Interplay of conformal geometry and integrability, Feb. 2, 2026, Kilpisjärvi.
+
 1. Tensor categories arising from the Virasoro algebra and quantum groups, Intersections of Topological Recursion, Conformal Field Theory, and Random Geometry, Aug. 25, 2025, Les Diablerets.
 
 1. Planar algebras for the Young graph and the Khovanov Heisenberg category, FiRST workshop for young researchers, Mar. 11, 2025. [[Slides](https://github.com/koshids1/FiRST_young_slides)]
